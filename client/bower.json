@@ -1,0 +1,9 @@
+{
+    "name": "angular-node-client",
+    "version": "0.0.0",
+    "dependencies": {
+        "requirejs": "2.1.15",
+        "underscore": "1.7.x",
+        "angularjs": "1.2.x"
+    }
+}
